@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Jest Test schuc",
+            "program": "${workspaceRoot}/node_modules/jest/bin/jest.js",
+            "request": "launch",
+            "type": "node",
+            "args": [
+                "-1"
+            ],
+            "internalConsoleOptions": "openOnSessionStart"
+        
+        }
+    ]
+}
